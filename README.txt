@@ -19,8 +19,8 @@ The system follows a standard ML pipeline:
 2.  **Inference:** A `Scikit-Learn` regression engine calculates the baseline market value.
 3.  **UI/UX:** A custom-styled `Streamlit` frontend using CSS injection for glassmorphism and responsive typography.vv
 
-![PrimeEstate Dashboard](screenshots/preview 1.png)
-![PrimeEstate Dashboard](screenshots/preview 2.png)
+![image alt](https://github.com/rehan-hash/PrimeEstate-AI/blob/main/preview1.png?raw=true)
+![image alt](https://github.com/rehan-hash/PrimeEstate-AI/blob/main/preview2.png?raw=true)
       
 ## 📦 Installation & Setup
 
