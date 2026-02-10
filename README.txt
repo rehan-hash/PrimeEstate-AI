@@ -25,5 +25,5 @@ The system follows a standard ML pipeline:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/primeestate-ai.git](https://github.com/rehan-hash/primeestate-ai.git)
+   git clone [https://github.com/rehan-hash/primeestate-ai.git](https://github.com/rehan-hash/primeestate-ai.git)
    cd primeestate-ai
